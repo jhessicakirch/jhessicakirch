@@ -9,20 +9,18 @@
 
 🎓 MBA em Data Science e Analytics pela Universidade de São Paulo (2023)
 
-🎓 Atualmente estou cursando o doutorado em Estatística e Experimentação Agronômica pela Universidade de São Paulo.
+🎓 Atualmente estou cursando o doutorado em Estatística e Experimentação Agronômica pela Universidade de São Paulo
 </p>
 
 ## Linguagens:
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.sas.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/sas-institute-inc-logo-724F521E0C-seeklogo.com.png" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.ibm.com/br-pt/products/spss-statistics" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/spss-1.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="power_bi" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R_software" width="40" height="40"/> </a>
+<a href="https://www.sas.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/sas-institute-inc-logo-724F521E0C-seeklogo.com.png" alt="SAS" width="40" height="40"/> </a>
+<a href="https://www.ibm.com/br-pt/products/spss-statistics" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/spss-1.svg" alt="SPSS" width="40" height="40"/> </a> </p>
 
 <h2 align="left"> Conecte-se comigo:</h2>
-<p>
-<a href="https:/www.linkedin.com/in/jhessica-leticia-kirch/"  rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/jhessica-leticia-kirch/" target="_blank" rel="noreferrer"> <img src="hhttps://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.jpg" alt="Linkedin" width="40" height="40"/> </a> </p>
 
 
 <!--
