@@ -20,7 +20,7 @@
 <a href="https://www.ibm.com/br-pt/products/spss-statistics" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/spss-1.svg" alt="SPSS" width="40" height="40"/> </a> </p>
 
 <h2 align="left"> Conecte-se comigo:</h2>
-<p align="left"> <a href="https://www.linkedin.com/in/jhessica-leticia-kirch/" target="_blank" rel="noreferrer"> <img src="hhttps://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.jpg" alt="Linkedin" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/jhessica-leticia-kirch/" target="_blank" rel="noreferrer"> <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-white-png-wordmark-icon-horizontal-900x233.png" alt="Linkedin" width="100" height="40"/> </a> </p>
 
 
 <!--
