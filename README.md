@@ -1,10 +1,10 @@
 <img width="100%" src="https://raw.githubusercontent.com/jhessicakirch/jhessicakirch/main/Jhessica.png" alt="my banner"> 
 
-## Seja bem vindo (a)!
+<h2 align="left"> Seja bem vindo (a)! </h2>
 
 <h2 align="left"> Sobre mim:</h2>
-<p>
 
+<p>
 🎓 Graduação em Estatística pela Universidade Federal de Mato Grosso (2017)
 
 🎓 Mestrado em Estatística e Experimentação Agronômica pela Universidade de São Paulo (2020)
