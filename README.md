@@ -1,3 +1,5 @@
+<img width="100%" src="https://raw.githubusercontent.com/jhessicakirch/jhessicakirch/main/Jhessica.png" alt="my banner"> 
+
 ## Seja bem vindo (a)!
 
 <h2 align="left"> Sobre mim:</h2>
