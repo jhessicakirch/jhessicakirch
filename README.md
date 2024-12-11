@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/jhessicakirch/jhessicakirch/main/Jhessica.png" alt="my banner"> 
+<img width="100%" src="https://raw.githubusercontent.com/jhessicakirch/jhessicakirch/main/JhessicA.png" alt="my banner"> 
 
 <h2 align="left"> Seja bem vindo (a)! </h2>
 
