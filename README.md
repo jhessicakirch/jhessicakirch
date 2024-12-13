@@ -11,7 +11,7 @@
 
 🎓 MBA em Data Science e Analytics pela Universidade de São Paulo (2023)
 
-🎓 Atualmente estou cursando o doutorado em Estatística e Experimentação Agronômica pela Universidade de São Paulo
+🎓 Doutorado em Estatística e Experimentação Agronômica pela Universidade de São Paulo (2024)
 </p>
 
 ## Linguagens:
